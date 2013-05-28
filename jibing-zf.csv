@@ -1,0 +1,1420 @@
+﻿Id,Label,中文疾病名称,disclass,分类
+30,Alzheimer disease,阿尔茨海默病,Neurological,神经
+36,Cerebral amyloid angiopathy,脑淀粉样血管病,Neurological,神经
+37,Coronary artery disease,冠状动脉疾病,Cardiovascular,心血管
+38,HDL cholesterol level QTL,高密度脂蛋白胆固醇水平的QTL,Metabolic,代谢
+39,Tangier disease,丹吉尔病,Metabolic,代谢
+41,Anemia,贫血,Hematological,血液学
+42,Cone dystrophy,锥营养不良,Ophthamological,眼科
+43,Fundus albipunctatus,白点状眼底,Ophthamological,眼科
+44,Macular dystrophy,黄斑营养不良,Ophthamological,眼科
+45,Retinitis pigmentosa,视网膜色素变性,Ophthamological,眼科
+46,Stargardt disease,斯塔加特病,Ophthamological,眼科
+47,Leukemia,白血病,Cancer,眼科
+48,Blood group,血型,Hematological,血液学
+53,Myopathy,肌病,Muscular,肌肉相关的
+54,Cardiomyopathy,心肌病,Cardiovascular,心血管
+55,Deafness,聋,"Ear,Nose,Throat",耳，鼻，喉
+59,Pancreatic cancer,胰腺癌,Cancer,癌症
+62,Adenosine deaminase deficiency,腺苷脱氨酶缺乏症,Immunological,免疫
+63,Severe combined immunodeciency,严重综合免疫力缺陷,Immunological,免疫
+65,Hypertension,高血压,Cardiovascular,心血管
+68,Asthma,哮喘,Respiratory,呼吸
+69,"Beta-2-adrenoreceptor agonist, reduced response to",β-2-肾上腺素受体激动剂，减少响应,Unclassified,未分类
+70,Obesity,肥胖,Nutritional,营养
+74,Spondyloepiphyseal dysplasia,脊椎骨骺发育不良,Skeletal,骨骼
+76,"Leanness, inherited",继承性瘦弱,Nutritional,营养
+77,Alagille syndrome,先天性肝内胆管发育不良征,Multiple,多种
+78,Tetralogy of Fallot,法乐氏四联症,Cardiovascular,心血管
+79,Preeclampsia,先兆子痫,Cardiovascular,心血管
+80,Renal tubular dysgenesis,肾小管发育不全,Renal,肾
+81,Mental retardation,精神发育迟滞,Neurological,神经
+86,Hemolytic anemia,溶血性贫血,Hematological,血液学
+87,Diabetes mellitus,糖尿病,Endocrine,内分泌
+98,Atherosclerosis,动脉粥样硬化,Cardiovascular,心血管
+99,Myocardial infarction,心肌梗死,Cardiovascular,心血管
+100,Stroke,行程,Cardiovascular,心血管
+101,Ichthyosiform erythroderma,鱼鳞病样红皮病,Dermatological,皮肤
+109,Spherocytosis,球形红细胞增多症,Hematological,血液学
+110,Long QT syndrome,长QT综合征,Cardiovascular,心血管
+112,"Adenoma, periampullary",腺瘤，壶腹周围,Cancer,癌症
+113,Adenomas,腺瘤,Cancer,癌症
+114,Colon cancer,结肠癌,Cancer,癌症
+115,"Desmoid disease, hereditary",硬纤维病，遗传,Cancer,癌症
+116,Gardner syndrome,加德纳综合征,Cancer,癌症
+117,Gastric cancer,胃癌,Cancer,癌症
+118,Turcot syndrome,透克氏症,Cancer,癌症
+119,Autoimmune disease,自身免疫性疾病,Immunological,免疫
+120,Amyloidosis,淀粉样变,Neurological,神经
+121,Apolipoprotein deficiency,载脂蛋白缺乏症,Metabolic,代谢
+122,Corneal dystrophy,角膜营养不良,Ophthamological,眼科
+123,Hypertriglyceridemia,高甘油三酯血症,Metabolic,代谢
+124,Hypoalphalipoproteinemia,C血症,Metabolic,代谢
+125,Hypercholesterolemia,高胆固醇血症,Metabolic,代谢
+126,Abetalipoproteinemia,无β脂蛋白血症,Metabolic,代谢
+127,Hypobetalipoproteinemia,家族性β-脂蛋白过少血症,Metabolic,代谢
+128,Hyperlipoproteinemia,高脂蛋白血症,Metabolic,代谢
+129,Sea-blue histiocyte disease,海蓝色组织细胞病,Hematological,血液学
+130,Schizophrenia,精神分裂症,Psychiatric,精神病
+131,Urolithiasise,绵羊尿石病,Metabolic,代谢
+132,Squamous cell carcinoma,鳞状细胞癌,Cancer,癌症
+133,Systemic lupus erythematosus,系统性红斑狼疮,Immunological,免疫
+134,Aquaporin-1 deficiency,水通道蛋白1缺乏,Unclassified,未分类
+136,Androgen insensitivity,雄激素不敏感,Endocrine,内分泌
+137,Breast cancer,乳腺癌,Cancer,癌症
+138,Perineal hypospadias,会阴型尿道下裂,Endocrine,内分泌
+139,Prostate cancer,前列腺癌,Cancer,癌症
+140,Spinal muscular atrophy,脊髓性肌萎缩症,Muscular,肌肉相关的
+146,Ichthyosis,鱼鳞病,Dermatological,皮肤
+147,Placental steroid sulfatase deciency,胎盘类固醇硫酸酯酶缺乏症,Metabolic,代谢
+154,Ataxia-telangiectasia,共济失调毛细血管扩张症,Immunological,免疫
+155,Lymphoma,淋巴瘤,Cancer,癌症
+156,T-cell lymphoblastic leukemia,T细胞淋巴细胞白血病,Cancer,癌症
+157,Alternating hemiplegia of childhood,儿童交替性偏瘫,Neurological,神经
+158,Migraine,偏头痛,Neurological,神经
+164,Renal tubular acidosis,肾小管性酸中毒,Renal,肾
+165,Cutis laxa,表皮年轻化,Connective tissue disorder,结缔组织疾病
+166,Menkes disease, 门克斯病,Neurological,神经
+167,Occipital horn syndrome,枕角综合征,Multiple,多种
+177,Hypercholanemia, 家族性高胆烷血症,Gastrointestinal,胃肠道
+180,Maple syrup urine disease,枫糖尿症,Metabolic,代谢
+181,von Hippel-Lindau syndrome,希佩尔 - 林道综合征,Cancer,癌症
+184,GRACILE syndrome,竹叶综合征,Metabolic,代谢
+185,Leigh syndrome,亚急性坏死性脑脊髓炎,Neurological,神经
+186,Mitochondrial complex deciency,线粒体复合体缺陷症,Multiple,多种
+187,Central hypoventilation syndrome,中央低通气综合征,Respiratory,呼吸
+188,Memory impairment,记忆障碍,Neurological,神经
+189,Obsessive-compulsive disorder,强迫症,Psychiatric,精神病
+191,Cowden disease,多发性错构瘤综合征,Cancer,癌症
+192,Polyposis,息肉病,Cancer,癌症
+197,Ovarian cancer,卵巢癌,Cancer,癌症
+198,Papillary serous carcinoma of the peritoneum,腹膜浆液性乳头状癌,Cancer,癌症
+199,Adenocarcinoma,腺癌,Cancer,癌症
+200,Melanoma,黑色素瘤,Cancer,癌症
+201,Nonsmall cell lung cancer,非小细胞肺癌,Cancer,癌症
+202,Fanconi anemia,范可尼贫血,Multiple,多种
+203,Wilms tumor,肾母细胞瘤,Cancer,癌症
+208,Complementary component deficiency,互补分量不足,Immunological,免疫
+209,Combined immunodeficiency,联合免疫缺陷,Immunological,免疫
+210,Cerebellar ataxia,小脑性共济失调,Neurological,神经
+211,Episodic ataxia,偶发性共济失调,Neurological,神经
+212,"Hemiplegic migraine, familial",家族性偏瘫性偏头痛，,Neurological,神经
+213,Spinocereballar ataxia,脊柱小脑运动共济失调征,Neurological,神经
+215,Night blindness,夜盲症,Ophthamological,眼科
+216,Hypokalemic periodic paralysis,低钾性周期性麻痹,Renal,肾
+217,Malignant hyperthermia susceptibility,恶性高热易感性,Neurological,神经
+218,Thyrotoxic periodic paralysis,甲亢性周期性麻痹,Endocrine,内分泌
+219,Ataxia,共济失调,Neurological,神经
+220,Epilepsy,癫痫,Neurological,神经
+222,Osteoporosis,骨质疏松,Bone,骨
+223,Muscular dystrophy,肌营养不良症,Muscular,肌肉相关的
+224,Hepatic adenoma,肝腺瘤,Cancer,癌症
+225,Non-Hodgkin lymphoma,非霍奇金淋巴瘤,Cancer,癌症
+226,Ventricular tachycardia,室性心动过速,Cardiovascular,心血管
+227,Hyperparathyroidism,甲状旁腺功能亢进症,Endocrine,内分泌
+228,Hypocalcemia,低钙血症,Endocrine,内分泌
+229,Hypocalciuric hypercalcemia,低尿钙高钙血症,Endocrine,内分泌
+231,Creatine phosphokinase,肌酸磷酸激酶,Metabolic,代谢
+232,Rippling muscle disease,荡漾肌肉疾病,Muscular,肌肉相关的
+235,Platelet defect/deficiency,血小板缺陷/不足,Hematological,血液学
+236,Rheumatoid arthritis,类风湿关节炎的,Connective tissue disorder,结缔组织疾病
+237,Myelogenous leukemia,粒细胞性白血病,Cancer,癌症
+238,Homocystinuria,高胱氨酸尿症,Metabolic,代谢
+239,Thrombophilia,血栓形成倾向,Hematological,血液学
+245,Malaria,疟疾,Immunological,免疫
+248,Endometrial carcinoma,子宫内膜癌,Cancer,癌症
+249,Listeria monocytogenes,单核细胞增生李斯特氏菌,Immunological,免疫
+252,Li Fraumeni syndrome,李弗劳明综合征,Cancer,癌症
+253,Orolaryngeal cancer,口喉癌,Cancer,癌症
+266,Myasthenic syndrome,肌无力综合征,Muscular,肌肉相关的
+270,Nicotine addiction,尼古丁成瘾,Psychiatric,精神病
+272,Myotonia congenita,先天性肌强直症,Muscular,肌肉相关的
+277,Osteopetrosis,石骨症,Bone,骨
+280,HIV,艾滋病,Immunological,免疫
+282,Achromatopsia,色盲,Ophthamological,眼科
+283,Caffey disease,卡菲病,Connective tissue disorder,结缔组织疾病
+284,Dissection of cervical arteries,颈椎动脉解剖,Connective tissue disorder,结缔组织疾病
+285,Ehlers-Danlos syndrome,埃勒斯 - 当洛综合征,Connective tissue disorder,结缔组织疾病
+286,Osteogenesis imperfecta,成骨不全症,Bone,骨
+287,Marfan syndrome,马凡氏综合征,Connective tissue disorder,结缔组织疾病
+288,"Achondrogenesis-hypochondrogenesis, type II",Achondrogenesis hypochondrogenesis，II型,Bone,骨
+289,Kniest dysplasia,克尼斯特发育不良,Skeletal,骨骼
+290,Osteoarthritis,骨性关节炎,Connective tissue disorder,结缔组织疾病
+291,SMED Strudwick type,脊椎骨骺发育不良（斯塔德威克型）,Skeletal,骨骼
+292,Stickler syndrome,斯蒂克勒综合征,Multiple,多种
+293,Wagner syndrome,瓦格纳综合征,Ophthamological,眼科
+294,"Aneurysm, familial arterial",家族性动脉瘤，,Unclassified,未分类
+301,EBD,EBD,Dermatological,皮肤
+302,Epidermolysis bullosa,大疱性表皮松解,Dermatological,皮肤
+303,"Toenail dystrophy, isolated",趾甲营养不良，隔绝,Dermatological,皮肤
+304,Transient bullous of the newborn,瞬态新生儿大疱,Dermatological,皮肤
+305,Fuchs endothelial corneal dystrophy,富克斯角膜内皮营养不良,Ophthamological,眼科
+306,Epiphyseal dysplasia,骨骺发育不良,Bone,骨
+307,Intervertebral disc disease,椎间盘疾病,Neurological,神经
+310,Marshall syndrome,马歇尔综合征,Multiple,多种
+311,OSMED syndrome,OSMED综合征,Bone,骨
+312,Weissenbacher-Zweymuller syndrome,韦-兹综合征,Connective tissue disorder,结缔组织疾病
+313,Pseudoachondroplasia,假性软骨发育不全,Skeletal,骨骼
+314,Lung cancer,肺癌,Cancer,癌症
+316,"Hemosiderosis, systemic, due to aceruloplasminemia",血铁质沉着症，系统性，由于遗传性铜蓝蛋白缺乏,Hematological,血液学
+317,Hypoceruloplasminemia,胞浆素,Metabolic,代谢
+322,"CPT deficiency, hepatic",肉鹼棕櫚醯基轉移酶缺乏症,Metabolic,代谢
+323,Rubenstein-Taybi syndrome,鲁宾斯坦Taybi综合征,Multiple,多种
+324,Leber congenital amaurosis,莱伯先天性黑朦,Ophthamological,眼科
+325,Cataract,白内障,Ophthamological,眼科
+327,Atrial fibrillation,房颤,Cardiovascular,心血管
+328,Atrioventricular block,房室传导阻滞,Cardiovascular,心血管
+331,Graves disease,甲状腺机能亢进,Endocrine,内分泌
+332,Hypothyroidism,甲状腺功能减退症,Endocrine,内分泌
+334,Pilomatricoma,毛母质瘤,Cancer,癌症
+340,Glaucoma,青光眼,Ophthamological,眼科
+341,Peters anomaly,彼得斯异常,Developmental,发展的
+342,Coumarin resistance,香豆素阻力,Hematological,血液学
+363,Dopamine beta-hydroxylase deciency,多巴胺β羟化酶缺乏症,Metabolic,代谢
+364,Parkinson disease,帕金森病,Neurological,神经
+365,Angiotensin I-converting enzyme,血管紧张素转换酶,Endocrine,内分泌
+366,"SARS, progression of",SARS，进展,Immunological,免疫
+367,Amyotrophic lateral sclerosis,肌萎缩性侧索硬化症,Neurological,神经
+368,"Lower motor neuron disease, progressive, without sensory symptoms",下运动神经元疾病，渐进的，没有感觉症状,Neurological,神经
+369,Lissencephaly,无脑回症,Neurological,神经
+370,Subcortical laminar heterotopia,皮层下层异位,Neurological,神经
+374,Jensen syndrome,詹森综合征,Neurological,神经
+375,Mohr-Tranebjaerg syndrome, 耳聋肌张力障碍综合征,Neurological,神经
+376,Meniere disease,梅尼埃病,Neurological,神经
+380,Benzene toxicity,苯的毒性,Unclassified,未分类
+384,Glioblastoma,胶质母细胞瘤,Cancer,癌症
+385,Becker muscular dystrophy,Becker型肌营养不良症,Muscular,肌肉相关的
+386,Duchenne muscular dystrophy,杜氏肌营养不良症,Muscular,肌肉相关的
+390,Charcot-Marie-Tooth disease,腓骨肌萎缩症,Neurological,神经
+401,Keratosis palmoplantaria striata,角化症掌跖病纹状体2型,Dermatological,皮肤
+402,Arrhythmogenic right ventricular dysplasia,致心律失常性右心室发育不良,Cardiovascular,心血管
+403,Dilated cardiomyopathy with woolly hair and keratoderma,扩张型心肌病，毛茸茸的头发和角化,Multiple,多种
+404,Skin fragility-woolly hair syndrome,皮肤脆弱羊毛毛综合症,Dermatological,皮肤
+405,"Dentin dysplasia, type II",Ⅱ型牙本质发育不全，,Bone,骨
+406,"Dentinogenesis imperfecta, Shields type",盾型牙本质发育不全，,Bone,骨
+407,Achondrogenesis Ib,软骨发育不全 IB,Bone,骨
+408,Atelosteogenesis,软骨发育不全,Connective tissue disorder,结缔组织疾病
+409,Diastrophic dysplasia,Diastrophic发育不良,Skeletal,骨骼
+411,Hirschsprung disease,先天性巨结肠症,Gastrointestinal,胃肠道
+414,Ectodermal dysplasia,外胚层发育不良,Dermatological,皮肤
+415,Shah-Waardenburg syndrome,眦异位综合征,Multiple,多种
+416,ABCD syndrome,ABCD综合征,Multiple,多种
+417,Waardenburg-Shah syndrome,瓦尔登堡-沙阿综合征,Multiple,多种
+419,Dejerine-Sottas disease,Dejerine索塔斯病,Multiple,多种
+420,Neuropathy,神经病,Neurological,神经
+422,"Hematopoiesis, cyclic",造血，循环,Hematological,血液学
+423,Neutropenia,嗜中性白血球减少症,Hematological,血液学
+424,Supravalvar aortic stenosis,主动脉瓣上狭窄,Cardiovascular,心血管
+425,Williams-Beuren syndrome,威廉氏综合征,Multiple,多种
+426,Emery-Dreifuss muscular dystrophy,埃默里-德雷福斯肌营养不良症,Muscular,肌肉相关的
+429,Elliptocytosis,红细胞增多症,Hematological,血液学
+434,Estrogen resistance,抗雌激素,Endocrine,内分泌
+441,Anterior segment anomalies and cataract,前段异常和白内障,Ophthamological,眼科
+442,Branchiootic syndrome,鳃耳综合征,Neurological,神经
+446,Hemorrhagic diathesis,出血性素质,Hematological,血液学
+447,Thrombocytopenia,血小板减少症,Hematological,血液学
+448,Factor x deficiency,因子X缺乏,Hematological,血液学
+453,Aortic aneurysm,主动脉瘤,Cardiovascular,心血管
+454,Ectopia,异位,Ophthamological,眼科
+455,MASS syndrome,MASS综合征,Connective tissue disorder,结缔组织疾病
+456,Shprintzen-Goldberg syndrome,史-戈德堡综合征,Multiple,多种
+457,Weill-Marchesani syndrome,球形晶状体短指畸形综合征,Connective tissue disorder,结缔组织疾病
+463,Viral infection,病毒感染,Immunological,免疫
+464,Walker-Warburg syndrome,沃克华宝综合征,Multiple,多种
+466,Afibrinogenemia,纤维蛋白原血症,Hematological,血液学
+467,Dysfibrinogenemia,异常纤维蛋白原血症,Hematological,血液学
+468,Aarskog-Scott syndrome,奥斯科格斯科特综合征,Multiple,多种
+470,Jackson-Weiss syndrome,杰克逊 - 魏斯综合征,Skeletal,骨骼
+471,Kallmann syndrome,Kallmann综合征,Multiple,多种
+472,Pfeiffer syndrome,菲佛综合征,Skeletal,骨骼
+473,Achondroplasia,软骨发育不全,Skeletal,骨骼
+474,Bladder cancer,膀胱癌,Cancer,癌症
+475,Cervical carcinoma,宫颈癌,Cancer,癌症
+476,Crouzon syndrome,克鲁综合征,Skeletal,骨骼
+477,Hypochondroplasia, 软骨发育低下,Skeletal,骨骼
+478,Muenke syndrome,Muenke综合征,Skeletal,骨骼
+479,"Thanatophoric dysplasia, types I and II",致死性骨发育不全，类型I和II,Skeletal,骨骼
+480,Apert syndrome,引起亚伯综合征,Connective tissue disorder,结缔组织疾病
+481,Beare-Stevenson cutis gyrata syndrome,比尔一史蒂文生皮肤回旋综合,Multiple,多种
+482,Craniofacial-skeletal-dermatologic dysplasia,颅面骨骼皮肤病发育不良,Multiple,多种
+483,Craniosynostosis, 小儿颅缝早闭,Skeletal,骨骼
+484,Saethre-Chotzen syndrome,尖头并指综合征III型,Developmental,发展的
+485,Cancer susceptibility,易患癌症,Cancer,癌症
+486,Hypofibrinogenemia,低纤维蛋白原血症,Hematological,血液学
+490,Axenfeld anomaly,青光眼与角膜巩膜发育不全,Ophthamological,眼科
+491,Iridogoniodysgenesis,虹膜角膜发育不良,Ophthamological,眼科
+492,Iris hypoplasia and glaucoma,虹膜发育不全和青光眼,Ophthamological,眼科
+493,Rieger syndrome,Rieger氏症候群,Multiple,多种
+497,Rhabdomyosarcoma,横纹肌肉瘤,Cancer,癌症
+502,Larson syndrome,拉尔森综合征,Skeletal,骨骼
+503,Spondylocarpotarsal synostosis syndrome,SCT综合征,Skeletal,骨骼
+523,Favism,蚕豆病,Metabolic,代谢
+524,G6PD deficiency,G6PD缺乏症,Metabolic,代谢
+526,Insomnia,失眠,Psychiatric,精神病
+527,Myoclonic epilepsy,肌阵挛性癫痫,Neurological,神经
+535,Dyserythropoietic anemia,红细胞生成异常性贫血,Hematological,血液学
+536,Macrothrombocytopenia,巨血小板减少症,Hematological,血液学
+540,Hyperinsulinism,高胰岛素血症,Metabolic,代谢
+541,MODY,青年发病的成年型糖尿病,Endocrine,内分泌
+542,Adult i phenotype,成年人，我的表型,Hematological,血液学
+545,Alexander disease,亚历山大病,Multiple,多种
+550,Growth hormone,生长激素,Endocrine,内分泌
+552,Hypoplastic left heart syndrome,左心发育不全综合征,Cardiovascular,心血管
+553,Oculodentodigital dysplasia,眼牙指发育不良综合征,Skeletal,骨骼
+554,Syndactyly,并指畸形,Skeletal,骨骼
+555,Bart-Pumphrey syndrome,巴特庞弗里综合征,Multiple,多种
+556,Hystrix-like ichthyosis with deafness,豪猪状鱼鳞病耳聋,Multiple,多种
+557,Keratitis-ichthyosis-deafness syndrome,角膜炎鱼鳞病耳聋综合征,Multiple,多种
+558,"Keratoderma, palmoplantar, with deafness",角化病，掌跖，耳聋,Dermatological,皮肤
+559,Vohwinkel syndrome,残毁性掌跖角皮症,Multiple,多种
+560,Erythrokeratoderma,变异性红斑角化病,Dermatological,皮肤
+563,Simpson-Golabi-Behmel syndrome,辛普森Golabi Behmel综合征,Multiple,多种
+570,Autism,自闭症,Psychiatric,精神病
+574,Pituitary ACTH-secreting adenoma,垂体ACTH分泌性腺瘤,Cancer,癌症
+575,Acromegaly,肢端肥大症,Endocrine,内分泌
+576,McCune-Albright syndrome,麦克卡尼-阿尔布莱特综合征,Multiple,多种
+577,Osseous heteroplasia,骨发育不正常,Bone,骨
+578,Pseudohypoparathyroidism,假性,Endocrine,内分泌
+579,Somatotrophinoma,生长激素瘤,Endocrine,内分泌
+585,Glutathione synthetase deciency,谷胱甘肽合成酶缺陷,Metabolic,代谢
+602,Huntington disease,亨廷顿病,Neurological,神经
+605,"Sandho disease, infantile, juvenile, and adult forms",桑德胡病（婴幼儿，少年，成年形式）,Metabolic,代谢
+606,Hemolytic-uremic syndrome,溶血性尿毒症综合征,Hematological,血液学
+607,Macular degeneration,黄斑变性,Ophthamological,眼科
+608,Nephropathy-hypertension,肾病高血压,Renal,肾
+616,Creutzfeldt-Jakob disease,克雅氏病,Neurological,神经
+627,Vertical talus,垂直距骨,Skeletal,骨骼
+633,Costello syndrome,科斯特洛综合征,Multiple,多种
+634,Thyroid carcinoma,甲状腺癌,Cancer,癌症
+637,"Apparent mineralocorticoid excess, hypertension due to",表观盐皮质激素过多，高血压，由于,Bone,骨
+640,Spastic ataxia/paraplegia,痉挛性共济失调/截瘫,Neurological,神经
+643,Alcohol dependence,酒精依赖,Unclassified,未分类
+644,Anorexia nervosa,神经性厌食症,Nutritional,营养
+645,Seasonal affective disorder,季节性情感障碍,Psychiatric,精神病
+661,Atopy,遗传性过敏症,Immunological,免疫
+663,Graft-versus-host disease,移植物抗宿主病,Immunological,免疫
+664,Allergic rhinitis,过敏性鼻炎,Immunological,免疫
+665,Hyperproinsulinemia,血症,Endocrine,内分泌
+667,Leprechaunism,矮怪病,Developmental,发展的
+668,Rabson-Mendenhall syndrome,Rabson门登霍尔综合征,Multiple,多种
+669,Pancreatic agenesis,胰腺发育不全,Gastrointestinal,胃肠道
+670,Macrocytic anemia,大细胞性贫血,Hematological,血液学
+671,Myelodysplastic syndrome,骨髓增生异常综合征,Muscular,肌肉相关的
+680,"Myelofibrosis, idiopathic",特发性骨髓纤维化,Hematological,血液学
+681,Polycythemia,真性红细胞增多症,Hematological,血液学
+682,Thrombocythemia,血小板增多症,Hematological,血液学
+685,Jervell and Lange-Nielsen syndrome,耶韦尔和朗格 - 尼尔森综合征,Multiple,多种
+686,Acquired long QT syndrome,获得性QT 延长综合征,Cardiovascular,心血管
+687,Persistent hyperinsulinemic hypoglycemia of infancy,婴儿期持续性高胰岛素血症性低血糖症,Metabolic,代谢
+689,Myokymia with neonatal epilepsy,新生儿癫痫Myokymia,Neurological,神经
+691,Gastrointestinal stromal tumor,胃肠道间质瘤,Cancer,癌症
+692,Germ cell tumor,生殖细胞瘤,Cancer,癌症
+693,Mast cell leukemia,肥大细胞白血病,Cancer,癌症
+694,Mastocytosis with associated hematologic disorder,与相关血液性疾病，肥大细胞增多症,Immunological,免疫
+695,Piebaldism,黑素细胞斑驳病,Dermatological,皮肤
+701,Stomach cancer,胃癌,Cancer,癌症
+702,Cyclic ichthyosis with epidermolytic hyperkeratosis,循环与表皮松解性角化过度鱼鳞病,Dermatological,皮肤
+703,Epidermolytic hyperkeratosis,表皮松解角化过度,Dermatological,皮肤
+704,"Unna-Thost disease, nonepidermolytic",乌纳 - 托斯特病，nonepidermolytic,Dermatological,皮肤
+709,"Nevus, epidermal, epidermolytic hyperkeratotic type",痣，表皮，表皮角化过度型,Dermatological,皮肤
+716,Laryngoonychocutaneous syndrome,LOCS,Multiple,多种
+736,Lipodystrophy,脂肪代谢障碍,Metabolic,代谢
+742,Lipoma,脂瘤,Cancer,癌症
+743,Bone mineral density variability,骨矿物质密度变异,Bone,骨
+744,Exudative vitreoretinopathy,渗出性玻璃体视网膜病变,Ophthamological,眼科
+745,"Hyperostosis, endosteal",骨质增生，内膜,Bone,骨
+746,Osteoporosis-pseudoglioma syndrome,骨质疏松假性神经胶质瘤综合征,Bone,骨
+747,van Buchem disease,冯布坎病,Unclassified,未分类
+748,Juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome,幼年性结肠息肉/遗传性出血性毛细血管扩张症综合征,Cancer,癌症
+751,Dementia,痴呆,Neurological,神经
+752,Pallidopontonigral degeneration,苍白球脑桥黑质变性,Neurological,神经
+753,Supranuclear palsy,性核上性麻痹,Neurological,神经
+754,Tauopathy and respiratory failure,滔蛋白病变和呼吸衰竭,Neurological,神经
+765,Angelman syndrome,安琪儿综合征,Developmental,发展的
+766,PPM-X syndrome,PPM-X综合征,Neurological,神经
+767,Rett syndrome,Rett综合征,Neurological,神经
+769,Adrenal adenoma,肾上腺腺瘤,Cancer,癌症
+770,"Angiofibroma, sporadic",血管纤维瘤，零星,Endocrine,内分泌
+771,Carcinoid tumor of lung,肺类癌肿瘤,Cancer,癌症
+772,Multiple endocrine neoplasia,多发性内分泌腺瘤,Cancer,癌症
+773,Parathyroid adenoma,甲状旁腺腺瘤,Cancer,癌症
+774,"Prolactinoma, hyperparathyroidism, carcinoid syndrome",泌乳素瘤，甲状旁腺功能亢进症，类癌综合征,Endocrine,内分泌
+775,Renal cell carcinoma,肾细胞癌,Cancer,癌症
+778,Bare lymphocyte syndrome,裸淋巴细胞综合征,Immunological,免疫
+779,Multiple sclerosis,多发性硬化症,Neurological,神经
+781,Tietz syndrome,Tietz综合征,Multiple,多种
+782,Waardenburg syndrome,Waardenburg氏综合征,Multiple,多种
+784,Cafe-au-lait spots,咖啡牛乳斑,Cancer,癌症
+785,Muir-Torre syndrome,缪尔-托瑞综合征,Cancer,癌症
+786,Pseudohypoaldosteronism,假性,Endocrine,内分泌
+790,Meningioma,脑膜瘤,Cancer,癌症
+792,Myeloperoxidase deficiency,髓过氧化物酶缺乏症,Immunological,免疫
+793,Roussy-Levy syndrome,鲁西 - 列维综合征,Multiple,多种
+794,Lynch cancer family syndrome II,美林癌家族综合征II,Cancer,癌症
+795,Neurofibromatosis,神经纤维瘤病,Cancer,癌症
+796,Cleft palate,腭裂,Developmental,发展的
+797,Hypodontia,缺牙,Skeletal,骨骼
+798,Witkop syndrome,牙一甲综合征,Developmental,发展的
+799,Parietal foramina,顶叶椎间孔,Skeletal,骨骼
+810,Neurofibrosarcoma,神经纤维肉瘤,Cancer,癌症
+814,Central core disease,核心病,Muscular,肌肉相关的
+815,Carney complex,卡尼复杂,Multiple,多种
+816,Trismus-pseudocomptodactyly syndrome,牙关紧闭假屈曲指综合征,Multiple,多种
+817,Epstein syndrome,爱泼斯坦综合征,Hematological,血液学
+818,Fechtner syndrome,家族性血小板减少症,Multiple,多种
+819,May-Hegglin anomaly,梅-海金斯异常,Hematological,血液学
+820,Sebastian syndrome,塞巴斯蒂安综合征,Hematological,血液学
+822,Usher syndrome,尤塞氏综合症,Multiple,多种
+826,Nijmegen breakage syndrome,奈梅亨断裂综合征,Multiple,多种
+828,Coats disease,Coats病,Ophthamological,眼科
+829,Norrie disease,诺里病,Neurological,神经
+833,Neurofibromatosis,神经纤维瘤病,Cancer,癌症
+834,Neurobromatosis-Noonan syndrome,Neurobromatosis Noonan综合征,Cancer,癌症
+835,Watson syndrome,沃森综合征,Cancer,癌症
+836,Schwannomatosis,神经鞘瘤病,Cancer,癌症
+838,Neuroblastoma,神经母细胞瘤,Cancer,癌症
+841,Coronary spasms,冠状动脉痉挛,Cardiovascular,心血管
+842,Placental abruption,胎盘早剥,Unclassified,未分类
+851,Retinal cone dsytrophy,视锥营养不良,Ophthamological,眼科
+852,Insensitivity to pain,对疼痛不敏感,Neurological,神经
+853,Medullary thyroid carcinoma,甲状腺髓样癌,Cancer,癌症
+856,Albinism,白化病,Dermatological,皮肤
+858,Optic atrophy,视神经萎缩,Ophthamological,眼科
+868,Leprosy,麻风病,Immunological,免疫
+871,Craniofacial-deafness-hand syndrome,颅面失聪手综合征,Multiple,多种
+872,"Aniridia, type II",无虹膜，II型,Ophthamological,眼科
+873,"Coloboma, ocular",缺损，眼球,Ophthamological,眼科
+874,Eye anomalies,眼睛异常,Ophthamological,眼科
+875,Foveal hypoplasia,黄斑中心凹发育不良,Ophthamological,眼科
+876,Keratitis,角膜炎,Ophthamological,眼科
+877,Morning glory disc anomaly,上午荣耀盘异常,Skeletal,骨骼
+878,Optic nerve hypoplasia/aplasia,视神经发育不全/再生障碍性贫血,Ophthamological,眼科
+879,Oligodontia,缺牙,Skeletal,骨骼
+880,Pyruvate dehydrogenase deciency,丙酮酸脱氢酶deciency的,Metabolic,代谢
+882,Dermatobrosarcoma protuberans,隆突Dermatobrosarcoma,Cancer,癌症
+883,Giant-cell fibroblastoma,巨细胞纤维母细胞,Cancer,癌症
+884,Hypereosinophilic syndrome,嗜酸性粒细胞增多综合征,Hematological,血液学
+887,Ossication of the posterior longitudinal spinal ligaments,后纵韧带骨化,Connective tissue disorder,结缔组织疾病
+888,Enlarged vestibular aqueduct,前庭水管扩大,"Ear,Nose,Throat",耳，鼻，喉
+889,Pendred syndrome,Pendred综合征,"Ear,Nose,Throat",耳，鼻，喉
+897,Myoglobinuria/hemolysis due to PGK deciency,肌红蛋白尿/溶血由于PGK deciency的，,Metabolic,代谢
+902,Emphysema,气肿,Respiratory,呼吸
+904,Ring dermoid of cornea,环角膜皮样瘤,Ophthamological,眼科
+909,Nevo syndrome,未婚夫综合征,Connective tissue disorder,结缔组织疾病
+911,Pelizaeus-Merzbacher disease,佩 - 梅病,Neurological,神经
+912,Neuroectodermal tumors,神经外胚层肿瘤,Multiple,多种
+919,Insulin resistance,胰岛素抵抗,Metabolic,代谢
+923,Adrenocortical carcinoma,肾上腺皮质癌,Cancer,癌症
+924,"Myxoma, intracardiac",腔内粘液瘤，,Cardiovascular,心血管
+925,"Pigmented adrenocortical disease, primary isolated",色素肾上腺皮质疾病，原发性隔离,Cancer,癌症
+928,Gerstmann-Straussler disease,杰斯特曼Straussler病,Neurological,神经
+929,Prion disease with protracted course,朊病毒病病程迁延,Neurological,神经
+930,Hyperprolinemia,血症,Metabolic,代谢
+935,Pick disease,Pick病,Neurological,神经
+938,Basal cell carcinoma,基底细胞癌,Cancer,癌症
+939,Basal cell nevus syndrome,基底细胞痣综合征,Multiple,多种
+940,Holoprosencephaly,脑症,Developmental,发展的
+941,Bannayan-Riley-Ruvalcaba syndrome,Bannayan - 莱利Ruvalcaba综合征,Unclassified,未分类
+942,Lhermitte-Duclos syndrome,出现Lhermitte杜克洛综合征,Cancer,癌症
+943,Oligodendroglioma,少枝胶质细胞,Cancer,癌症
+944,VATER association with hydrocephalus,积水VATER协会,Multiple,多种
+947,Leopard syndrome,豹综合征,Multiple,多种
+948,Noonan syndrome,Noonan综合征,Developmental,发展的
+949,Zlotogora-Ogur syndrome,Zlotogora Ogur综合征,Multiple,多种
+953,Omenn syndrome,Omenn综合征,Immunological,免疫
+954,Capillary malformations,毛细血管畸形,Cardiovascular,心血管
+955,Parkes Weber syndrome,帕克斯Weber综合征,Multiple,多种
+956,Retinoblastoma,视网膜母细胞瘤,Cancer,癌症
+958,"Butterfly dystrophy, retinal",蝴蝶营养不良，视网膜,Ophthamological,眼科
+959,"Foveomacular dystrophy, adult-onset, with choroidal neovascularization",Foveomacular营养不良，成年起病，脉络膜新生血管,Ophthamological,眼科
+960,Hyperproreninemia,高蛋白血症,Cardiovascular,心血管
+961,"Colonic aganglionosis, total, with small bowel involvement",结肠无神经节细胞症，小肠受累，总,Gastrointestinal,胃肠道
+962,Rh-mod syndrome,RH-MOD综合征,Hematological,血液学
+963,Rh-negative blood type,Rh阴性血型,Hematological,血液学
+965,Bothnia retinal dystrophy,尼亚视网膜营养不良,Ophthamological,眼科
+966,Newfoundland rod-cone dystrophy,纽芬兰杆锥营养不良,Ophthamological,眼科
+968,Esophageal cancer,食管癌,Cancer,癌症
+969,Coffin-Lowry syndrome,棺材洛瑞综合征,Multiple,多种
+974,"Cramps, potassium-aggravated",痉挛，加重钾,Muscular,肌肉相关的
+975,Hyperkalemic periodic paralysis,高钾周期性麻痹,Neurological,神经
+976,Paramyotonia congenita,先天性Paramyotonia,Muscular,肌肉相关的
+977,Brugada syndrome,Brugada综合征,Cardiovascular,心血管
+978,Heart block,心脏传导阻滞,Cardiovascular,心血管
+979,Sick sinus syndrome,病态窦房结综合征,Cardiovascular,心血管
+980,"Ventricular brillation, idiopathic",特发性心室brillation,Cardiovascular,心血管
+982,Liddle syndrome,利德尔综合征,Renal,肾
+984,Paragangliomas,嗜铬细胞瘤,Cancer,癌症
+985,Pheochromocytoma,嗜铬细胞瘤,Cancer,癌症
+986,"Carcinoid tumors, intestinal",类癌肿瘤，肠,Cancer,癌症
+987,Merkel cell carcinoma,Merkel细胞癌,Cancer,癌症
+991,Solitary median maxillary central incisor,孤立位数上颌中切牙,Skeletal,骨骼
+996,Fanconi-Bickel syndrome,范可尼比克尔综合征,Metabolic,代谢
+1002,Anxiety-related personality traits,焦虑相关的人格特质,Psychiatric,精神病
+1003,"Creatine deciency syndrome, X-linked",肌酸缺陷综合征，X-关联,Neurological,神经
+1012,Infundibular hypoplasia and hypopituitarism,漏斗部发育不全，垂体功能低下,Endocrine,内分泌
+1015,PCWH,PCWH,Neurological,神经
+1016,Yemenite deaf-blind hypopigmentation syndrome,也门聋盲色素减退综合征,Multiple,多种
+1020,Pyropoikilocytosis,热变性异形红细胞增多症,Hematological,血液学
+1025,Peutz-Jeghers syndrome,黑斑息肉综合征,Cancer,癌症
+1027,Hypoglycemia,低血糖,Metabolic,代谢
+1029,Wegener granulomatosis,韦格纳肉芽肿,Immunological,免疫
+1033,Barth syndrome,巴特综合征,Multiple,多种
+1034,Noncompaction of left ventricular myocardium,左室心肌致密,Cardiovascular,心血管
+1040,"Glomerulocystic kidney disease, hypoplastic",肾丝球肾发育不全的疾病，,Renal,肾
+1047,Autoimmune thyroid disease,自身免疫性甲状腺疾病,Endocrine,内分泌
+1048,Goiter,甲状腺肿大,Endocrine,内分泌
+1050,Loeys-Dietz syndrome,Loeys迪茨综合征,Connective tissue disorder,结缔组织疾病
+1051,Self-healing collodion baby,自愈火棉胶婴儿,Dermatological,皮肤
+1053,Thyroid hormone resistance,甲状腺激素抵抗,Endocrine,内分泌
+1061,Sepsis,脓血症,Immunological,免疫
+1065,Adrenal cortical carcinoma,肾上腺皮质癌,Cancer,癌症
+1066,Histiocytoma,组织细胞瘤,Cancer,癌症
+1067,Li-Fraumeni syndrome,李弗劳明综合征,Cancer,癌症
+1068,Multiple malignancy syndrome,多恶性综合征,Cancer,癌症
+1069,Nasopharyngeal carcinoma,鼻咽癌,Cancer,癌症
+1070,Osteosarcoma,骨肉瘤,Cancer,癌症
+1072,Hyperthyroidism,甲状腺功能亢进症,Endocrine,内分泌
+1073,Total iodide organication defect,总碘organication缺陷,Endocrine,内分泌
+1078,Hyperthroidism,甲状腺机能亢进症,Endocrine,内分泌
+1080,Amyloid neuropathy,淀粉样神经病,Neurological,神经
+1081,"Carpal tunnel syndrome, familial",腕管综合征，家族,Unclassified,未分类
+1082,Dystransthyretinemic hyperthyroxinemia, 家族性异常甲状腺素血症,Hematological,血液学
+1089,"Hemangioblastoma, cerebellar",血管母细胞瘤，小脑,Cancer,癌症
+1091,"Maculopathy, bull's-eye",黄斑病变，靶心,Ophthamological,眼科
+1092,Vitelliform macular dystrophy,卵黄样黄斑营养不良,Ophthamological,眼科
+1094,Wiskott-Aldrich syndrome,Wiskott-Aldrich综合征,Immunological,免疫
+1099,Denys-Drash syndrome,丹尼斯Drash综合征,Renal,肾
+1100,Frasier syndrome,弗雷泽综合征,Multiple,多种
+1101,Mesangial sclerosis,系膜硬化,Renal,肾
+1102,WAGR syndrome,WAGR综合征,Multiple,多种
+1120,Salivary adenoma,唾液腺瘤,Cancer,癌症
+1121,Uterine leiomyoma,子宫肌瘤,Cancer,癌症
+1130,Miyoshi myopathy,三好氏肌肉病变,Muscular,肌肉相关的
+1132,Oligodontia-colorectal cancer syndrome,缺牙大肠癌综合征,Cancer,癌症
+1136,Incontinentia pigmenti,色素失禁症,Dermatological,皮肤
+1145,Medulloblastoma,髓母细胞瘤,Cancer,癌症
+1148,Arthropathy,关节病,Bone,骨
+1152,Mesothelioma,间皮瘤,Cancer,癌症
+1153,Sezary syndrome,Sezary综合症,Cancer,癌症
+1174,Myotilinopathy,髓鞘质病,Muscular,肌肉相关的
+1181,Enhanced S-cone syndrome,增强S-圆锥综合征,Ophthamological,眼科
+1198,Netherton syndrome,瑟顿综合征,Dermatological,皮肤
+1208,Pigmented paravenous chorioretinal atrophy,色素性静脉旁脉络膜视网膜萎缩,Ophthamological,眼科
+1221,Silver spastic paraplegia syndrome,银痉挛性截瘫综合征,Neurological,神经
+1227,"Craniofacial anomalies, empty sella turcica, corneal endothelial changes",颅面畸形，空蝶鞍，角膜内皮细胞变化,Multiple,多种
+1228,Keratoconus,圆锥角膜,Ophthamological,眼科
+1232,"Immunodysregulation, polyendocrinopathy, and enteropathy, X-linked",免疫功能失调、多发性内分泌病、肠病及X染色体连锁综合征,Multiple,多种
+1238,IgE levels QTL,IgE水平QTL,Immunological,免疫
+1242,Wolff-Parkinson-White syndrome,沃尔夫 - 帕金森 - 怀特综合症,Cardiovascular,心血管
+1245,Asperger syndrome,阿斯伯格综合症,Psychiatric,精神病
+1270,Primary lateral sclerosis,原发性侧索硬化症,Neurological,神经
+1285,3-methylglutaconicaciduria,甲基戊烯二酸尿症,Metabolic,代谢
+1289,Convulsions,抽搐,Neurological,神经
+1303,Infantile spasm syndrome,小儿痉挛综合征,Neurological,神经
+1304,Partington syndrome,帕廷综合征,Neurological,神经
+1305,Proud syndrome,骄傲综合征,Multiple,多种
+1306,Birt-Hogg-Dube syndrome,波特-霍格 - 杜贝综合征,Dermatological,皮肤
+1307,"Pneumothorax, primary spontaneous",气胸，原发性自发性气胸,Respiratory,呼吸
+1329,MTP,MTP,gene,基因
+1338,CNGA3,CNGA3,gene,基因
+1339,GNAT2,GNAT2,gene,基因
+1348,SSTR5,SSTR5,gene,基因
+1361,PLAG1,PLAG1,gene,基因
+1394,OCA2,OCA2,gene,基因
+1396,TYRP1,TYRP1,gene,基因
+1402,GFAP,GFAP,gene,基因
+1420,A2M,A2M,gene,基因
+1421,APBB2,APBB2,gene,基因
+1424,BLMH,BLMH,gene,基因
+1428,PLAU,PLAU,gene,基因
+1430,PSEN2,PSEN2,gene,基因
+1431,PAXIP1,PAXIP1,gene,基因
+1442,GSN,GSN,gene,基因
+1443,LYZ,LYZ,gene,基因
+1446,NEFH,NEFH,gene,基因
+1447,PRPH,PRPH,gene,基因
+1448,SOD1,SOD1,gene,基因
+1455,ABCB7,ABCB7,gene,基因
+1456,ALAS2,ALAS2,gene,基因
+1457,SLC11A2,SLC11A2,gene,基因
+1458,PKLR,PKLR,gene,基因
+1460,RPS19,RPS19,gene,基因
+1462,NT5C3,NT5C3,gene,基因
+1463,CDAN1,CDAN1,gene,基因
+1465,UBE3A,UBE3A,gene,基因
+1477,FOXE3,FOXE3,gene,基因
+1491,APOC3,APOC3,gene,基因
+1492,APOH,APOH,gene,基因
+1501,PKP2,PKP2,gene,基因
+1512,MS4A2,MS4A2,gene,基因
+1513,HNMT,HNMT,gene,基因
+1514,IL12B,IL12B,gene,基因
+1515,IL13,IL13,gene,基因
+1516,PTGDR,PTGDR,gene,基因
+1518,SCGB1A1,SCGB1A1,gene,基因
+1521,SCGB3A2,SCGB3A2,gene,基因
+1522,GPR154,GPR154,gene,基因
+1524,TTPA,TTPA,gene,基因
+1525,ALS4,ALS4,gene,基因
+1526,APTX,APTX,gene,基因
+1527,ATCAY,ATCAY,gene,基因
+1529,MRE11A,MRE11A,gene,基因
+1533,ALOX5,ALOX5,gene,基因
+1534,IL4R,IL4R,gene,基因
+1535,SELP,SELP,gene,基因
+1538,HAVCR1,HAVCR1,gene,基因
+1541,GATA4,GATA4,gene,基因
+1548,CRELD1,CRELD1,gene,基因
+1550,GLO1,GLO1,gene,基因
+1552,NLGN3,NLGN3,gene,基因
+1554,AIRE,AIRE,gene,基因
+1573,RFX5,RFX5,gene,基因
+1574,RFXAP,RFXAP,gene,基因
+1576,TAPBP,TAPBP,gene,基因
+1586,SMO,SMO,gene,基因
+1621,ABO,ABO,gene,基因
+1622,ACHE,疼,gene,基因
+1623,AQP1,AQP1,gene,基因
+1624,AQP3,AQP3,gene,基因
+1625,DO,DO,gene,基因
+1626,BSG,BSG,gene,基因
+1627,CD44,CD44,gene,基因
+1628,CR1,CR1,gene,基因
+1629,DAF,DAF,gene,基因
+1630,FUT3,FUT3,gene,基因
+1631,GCNT2,GCNT2,gene,基因
+1632,GYPA,GYPA,gene,基因
+1633,GYPB,GYPB,gene,基因
+1635,ICAM4,ICAM4,gene,基因
+1636,KEL,KEL,gene,基因
+1637,LU,LU,gene,基因
+1640,SLC14A1,SLC14A1,gene,基因
+1641,XG,XG,gene,基因
+1642,B3GALT3,B3GALT3,gene,基因
+1643,A4GALT,A4GALT,gene,基因
+1660,EYA1,EYA1,gene,基因
+1663,BARD1,BARD1,gene,基因
+1669,PHB,PHB,gene,基因
+1671,RAD51,RAD51,gene,基因
+1673,TSG101,TSG101,gene,基因
+1676,PPM1D,PPM1D,gene,基因
+1677,RB1CC1,RB1CC1,gene,基因
+1687,C1QA,C1QA,gene,基因
+1688,C1QB,C1QB,gene,基因
+1689,C1QG,C1QG,gene,基因
+1690,C1S,C1S,gene,基因
+1691,C2,C2,gene,基因
+1692,C3,C3,gene,基因
+1693,C4A,C4A,gene,基因
+1694,C4B,C4B,gene,基因
+1696,C7,C7,gene,基因
+1697,C8B,C8B,gene,基因
+1698,C9,C9,gene,基因
+1699,IF,IF,gene,基因
+1709,FGFR4,FGFR4,gene,基因
+1719,ACTC,ACTC,gene,基因
+1726,MYBPC3,MYBPC3,gene,基因
+1727,MYH6,MYH6,gene,基因
+1729,MYL2,MYL2,gene,基因
+1730,MYL3,MYL3,gene,基因
+1731,PLN,PLN,gene,基因
+1734,TNNC1,TNNC1,gene,基因
+1735,TNNI3,TNNI3,gene,基因
+1736,TNNT2,TNNT2,gene,基因
+1737,TPM1,TPM1,gene,基因
+1739,CSRP3,CSRP3,gene,基因
+1741,ABCC9,ABCC9,gene,基因
+1743,MYLK2,MYLK2,gene,基因
+1750,CRYAA,CRYAA,gene,基因
+1752,CRYBA1,CRYBA1,gene,基因
+1753,CRYBB1,CRYBB1,gene,基因
+1754,CRYBB2,CRYBB2,gene,基因
+1755,CRYGC,CRYGC,gene,基因
+1756,CRYGD,CRYGD,gene,基因
+1757,GJA3,GJA3,gene,基因
+1758,GJA8,GJA8,gene,基因
+1759,HSF4,HSF4,gene,基因
+1760,LIM2,LIM2,gene,基因
+1761,MIP,MIP,gene,基因
+1763,PITX3,PITX3,gene,基因
+1764,BFSP2,BFSP2,gene,基因
+1776,CST3,CST3,gene,基因
+1792,DNM2,DNM2,gene,基因
+1795,GJB1,GJB1,gene,基因
+1799,NEFL,NEFL,gene,基因
+1801,RAB7,RAB7,gene,基因
+1802,MTMR2,MTMR2,gene,基因
+1803,LITAF,LITAF,gene,基因
+1804,MFN2,MFN2,gene,基因
+1805,NDRG1,NDRG1,gene,基因
+1806,KIF1B,KIF1B,gene,基因
+1807,GDAP1,GDAP1,gene,基因
+1808,SH3TC2,SH3TC2,gene,基因
+1809,SBF2,SBF2,gene,基因
+1852,TBX22,TBX22,gene,基因
+1868,BUB1,BUB1,gene,基因
+1869,BUB1B,BUB1B,gene,基因
+1871,DCC,DCC,gene,基因
+1875,MCC,MCC,gene,基因
+1879,NRAS,NRAS,gene,基因
+1880,ODC1,ODC1,gene,基因
+1883,PLA2G2A,PLA2G2A,gene,基因
+1884,PMS1,PMS1,gene,基因
+1886,PTPN12,PTPN12,gene,基因
+1887,PTPRJ,PTPRJ,gene,基因
+1888,SRC,SRC,gene,基因
+1894,DLC1,DLC1,gene,基因
+1896,MLH3,MLH3,gene,基因
+1907,GUCA1A,GUCA1A,gene,基因
+1935,TACSTD2,TACSTD2,gene,基因
+1936,TGFBI,TGFBI,gene,基因
+1937,KERA,KERA,gene,基因
+1939,PIP5K3,PIP5K3,gene,基因
+1942,MEF2A,MEF2A,gene,基因
+1943,MMP3,MMP3,gene,基因
+1944,PON1,PON1,gene,基因
+1945,PON2,PON2,gene,基因
+1946,KL,KL,gene,基因
+1955,CPT1A,CPT1A,gene,基因
+1967,HLA-DQB1,HLA-DQB1,gene,基因
+1990,ACTG1,ACTG1,gene,基因
+1992,ATP2B2,ATP2B2,gene,基因
+1994,CRYM,CRYM,gene,基因
+1996,DFNA5,DFNA5,gene,基因
+1998,DIAPH1,DIAPH1,gene,基因
+2000,EYA4,EYA4,gene,基因
+2004,MYO1A,MYO1A,gene,基因
+2005,MYO6,MYO6,gene,基因
+2008,POU3F4,POU3F4,gene,基因
+2009,POU4F3,POU4F3,gene,基因
+2010,TECTA,TECTA,gene,基因
+2011,KCNQ4,KCNQ4,gene,基因
+2012,OTOF,OTOF,gene,基因
+2015,CLDN14,CLDN14,gene,基因
+2016,DFNB31,DFNB31,gene,基因
+2017,MYO15A,MYO15A,gene,基因
+2018,MYO3A,MYO3A,gene,基因
+2019,KIAA1199,KIAA1199,gene,基因
+2021,TMPRSS3,TMPRSS3,gene,基因
+2023,MYH14,MYH14,gene,基因
+2024,GRHL2,GRHL2,gene,基因
+2025,ESPN,ESPN,gene,基因
+2026,TMC1,TMC1,gene,基因
+2027,OTOA,OTOA,gene,基因
+2028,STRC,STRC,gene,基因
+2029,TMIE,TMIE,gene,基因
+2030,SLC26A5,SLC26A5,gene,基因
+2035,PRX,PRX,gene,基因
+2039,SNCB,SNCB,gene,基因
+2042,ITM2B,ITM2B,gene,基因
+2049,DSPP,DSPP,gene,基因
+2055,AKT2,AKT2,gene,基因
+2057,GCGR,GCGR,gene,基因
+2059,GPD2,GPD2,gene,基因
+2063,IRS1,IRS1,gene,基因
+2065,NEUROD1,NEUROD1,gene,基因
+2069,SLC2A4,SLC2A4,gene,基因
+2073,VEGF,血管内皮生长因子,gene,基因
+2074,IRS2,IRS2,gene,基因
+2075,MAPK8IP1,MAPK8IP1,gene,基因
+2076,CAPN10,CAPN10,gene,基因
+2080,PTF1A,PTF1A,gene,基因
+2081,SUMO4,SUMO4,gene,基因
+2099,DMD,DMD,gene,基因
+2105,FGA,FGA,gene,基因
+2120,TTR,TTR,gene,基因
+2122,EDA,EDA,gene,基因
+2123,NFKBIA,NFKBIA,gene,基因
+2124,PKP1,PKP1,gene,基因
+2127,GJB6,GJB6,gene,基因
+2128,EDAR,EDAR,gene,基因
+2129,EDARADD,EDARADD,gene,基因
+2136,COL5A1,COL5A1,gene,基因
+2137,COL5A2,COL5A2,gene,基因
+2139,TNXB,TNXB,gene,基因
+2140,ADAMTS2,ADAMTS2,gene,基因
+2141,B4GALT7,B4GALT7,gene,基因
+2143,EPB41,EPB41,gene,基因
+2149,EMD,EMD,gene,基因
+2157,MSH3,MSH3,gene,基因
+2169,COL17A1,COL17A1,gene,基因
+2171,ITGA6,ITGA6,gene,基因
+2172,ITGB4,ITGB4,gene,基因
+2173,KRT5,KRT5,gene,基因
+2174,KRT14,KRT14,gene,基因
+2176,LAMB3,LAMB3,gene,基因
+2177,LAMC2,LAMC2,gene,基因
+2180,KRT9,KRT9,gene,基因
+2182,CACNB4,CACNB4,gene,基因
+2184,CHRNB2,CHRNB2,gene,基因
+2185,CLCN2,CLCN2,gene,基因
+2186,CSTB,CSTB,gene,基因
+2187,GABRA1,GABRA1,gene,基因
+2190,KCNQ3,KCNQ3,gene,基因
+2191,ME2,ME2,gene,基因
+2192,SCN1A,SCN1A,gene,基因
+2193,SYN1,SYN1,gene,基因
+2194,EPM2A,EPM2A,gene,基因
+2195,JRK,JRK,gene,基因
+2197,SLC25A22,SLC25A22,gene,基因
+2198,NHLRC1,NHLRC1,gene,基因
+2199,COL9A1,COL9A1,gene,基因
+2203,SLC26A2,SLC26A2,gene,基因
+2206,KCNA1,KCNA1,gene,基因
+2214,GJB3,GJB3,gene,基因
+2216,GJB4,GJB4,gene,基因
+2217,RNF6,RNF6,gene,基因
+2219,LZTS1,LZTS1,gene,基因
+2220,WWOX,WWOX,gene,基因
+2229,FZD4,FZD4,gene,基因
+2235,F10,F10,gene,基因
+2236,F11,F11,gene,基因
+2237,F12,F12,gene,基因
+2238,F13A1,F13A1,gene,基因
+2239,F13B,F13B,gene,基因
+2241,MCFD2,MCFD2,gene,基因
+2244,FANCA,FANCA,gene,基因
+2245,FANCC,FANCC,gene,基因
+2246,FANCD2,FANCD2,gene,基因
+2247,FANCE,FANCE,gene,基因
+2248,FANCB,FANCB,gene,基因
+2249,FANCF,FANCF,gene,基因
+2250,FANCG,FANCG,gene,基因
+2251,FANCL,FANCL,gene,基因
+2252,FANCM,FANCM,gene,基因
+2253,BRIP1,BRIP1,gene,基因
+2254,SLC2A2,SLC2A2,gene,基因
+2285,COL8A2,COL8A2,gene,基因
+2290,RDH5,RDH5,gene,基因
+2306,IL1B,IL1B,gene,基因
+2307,IL1RN,IL1RN,gene,基因
+2309,MUTYH,MUTYH,gene,基因
+2328,MYOC,MYOC,gene,基因
+2330,OPTN,OPTN,gene,基因
+2331,DMBT1,DMBT1,gene,基因
+2335,LGI1,LGI1,gene,基因
+2380,GC,GC,gene,基因
+2386,GHRHR,GHRHR,gene,基因
+2418,AK1,AK1,gene,基因
+2419,BPGM,BPGM,gene,基因
+2420,G6PD,G6PD,gene,基因
+2421,GCLC,GCLC,gene,基因
+2422,GPI,GPI,gene,基因
+2423,GSS,GSS,gene,基因
+2424,HK1,HK1,gene,基因
+2427,TPI1,TPI1,gene,基因
+2434,SERPINA1,SERPINA1,gene,基因
+2437,CASP8,CASP8,gene,基因
+2439,IGF2R,IGF2R,gene,基因
+2441,PDGFRL,PDGFRL,gene,基因
+2444,AXIN1,AXIN1,gene,基因
+2462,GDNF,GDNF,gene,基因
+2463,NRTN,NRTN,gene,基因
+2468,CCR2,CCR2,gene,基因
+2469,CCR5,CCR5,gene,基因
+2471,CCL5,CCL5,gene,基因
+2477,SIX3,SIX3,gene,基因
+2478,TGIF,TGIF,gene,基因
+2479,ZIC2,ZIC2,gene,基因
+2483,MTHFR,MTHFR,gene,基因
+2492,HD,HD,gene,基因
+2495,JPH3,JPH3,gene,基因
+2504,BAAT,BAAT,gene,基因
+2506,TJP2,TJP2,gene,基因
+2507,APOA2,APOA2,gene,基因
+2509,EPHX2,EPHX2,gene,基因
+2510,ITIH4,ITIH4,gene,基因
+2511,LDLR,低密度脂蛋白受体,gene,基因
+2512,C7orf16,C7orf16,gene,基因
+2513,LDLRAP1,LDLRAP1,gene,基因
+2514,PCSK9,PCSK9,gene,基因
+2517,PDGFRA,PDGFRA,gene,基因
+2525,APOC2,APOC2,gene,基因
+2541,ALDH4A1,ALDH4A1,gene,基因
+2544,ADD1,ADD1,gene,基因
+2547,CYP3A5,CYP3A5,gene,基因
+2548,ECE1,ECE1,gene,基因
+2549,GNB3,GNB3,gene,基因
+2550,HSD11B2,HSD11B2,gene,基因
+2551,KCNMB1,KCNMB1,gene,基因
+2554,PTGIS,PTGIS,gene,基因
+2555,RETN,RETN,gene,基因
+2560,APOA5,APOA5,gene,基因
+2561,LIPI,科研所,gene,基因
+2565,APOA1,APOA1,gene,基因
+2566,APOB,APOB,gene,基因
+2568,CASR,CASR,gene,基因
+2569,CP,CP,gene,基因
+2576,ABCC8,ABCC8,gene,基因
+2585,KCNE3,KCNE3,gene,基因
+2601,CTLA4,CTLA4,gene,基因
+2602,SLC5A5,SLC5A5,gene,基因
+2604,TSHB,TSHB,gene,基因
+2606,PAX8,PAX8,gene,基因
+2607,DUOX2,DUOX2,gene,基因
+2614,ALOX12B,ALOX12B,gene,基因
+2616,ALOXE3,ALOXE3,gene,基因
+2619,KRT2A,KRT2A,gene,基因
+2622,ABCA12,ABCA12,gene,基因
+2623,ICHTHYIN,ICHTHYIN,gene,基因
+2625,PHF11,PHF11,gene,基因
+2635,FOXP3,FOXP3,gene,基因
+2640,IKBKG,IKBKG,gene,基因
+2645,GABRB3,GABRB3,gene,基因
+2648,PPP1R3A,PPP1R3A,gene,基因
+2649,PTPN1,PTPN1,gene,基因
+2651,COL9A2,COL9A2,gene,基因
+2652,COL9A3,COL9A3,gene,基因
+2675,KAL1,KAL1,gene,基因
+2685,VSX1,VSX1,gene,基因
+2687,DSG1,DSG1,gene,基因
+2690,SAT,SAT,gene,基因
+2705,LAMA3,LAMA3,gene,基因
+2711,GUCY2D,GUCY2D,gene,基因
+2715,RPGRIP1,RPGRIP1,gene,基因
+2716,RDH12,RDH12,gene,基因
+2722,COX15,COX15,gene,基因
+2724,NDUFS3,NDUFS3,gene,基因
+2727,NDUFS8,NDUFS8,gene,基因
+2730,SURF1,SURF1,gene,基因
+2731,LRPPRC,LRPPRC,gene,基因
+2732,NDUFS7,NDUFS7,gene,基因
+2740,ABL1,ABL1,gene,基因
+2741,ARNT,ARNT,gene,基因
+2743,BCL2,BCL2,gene,基因
+2744,BCR,BCR,gene,基因
+2746,CEBPA,CEBPA,gene,基因
+2747,NQO1,NQO1,gene,基因
+2748,FLT3,FLT3,gene,基因
+2750,HOXD4,HOXD4,gene,基因
+2756,NPM1,NPM1,gene,基因
+2757,NUMA1,NUMA1,gene,基因
+2758,P2RX7,P2RX7,gene,基因
+2759,PML,PML,gene,基因
+2761,STAT5B,STAT5B,gene,基因
+2762,TAL1,TAL1,gene,基因
+2763,TAL2,TAL2,gene,基因
+2764,TRA@,TRA @,gene,基因
+2765,ZBTB16,ZBTB16,gene,基因
+2766,NUP214,NUP214,gene,基因
+2767,MLLT10,MLLT10,gene,基因
+2768,PICALM,PICALM,gene,基因
+2769,GMPS,GMPS,gene,基因
+2770,ZNFN1A1,ZNFN1A1,gene,基因
+2771,MLLT11,MLLT11,gene,基因
+2772,ARHGAP26,ARHGAP26,gene,基因
+2773,ARHGEF12,ARHGEF12,gene,基因
+2774,CHIC2,CHIC2,gene,基因
+2775,WHSC1L1,WHSC1L1,gene,基因
+2776,ARL11,ARL11,gene,基因
+2792,LMNA,LMNA,gene,基因
+2794,AGPAT2,AGPAT2,gene,基因
+2795,PPARGC1A,PPARGC1A,gene,基因
+2799,LPP,LPP,gene,基因
+2805,RELN,RELN,gene,基因
+2808,TGFBR1,TGFBR1,gene,基因
+2809,TGFBR2,TGFBR2,gene,基因
+2812,ANK2,ANK2,gene,基因
+2813,KCNE1,KCNE1,gene,基因
+2814,KCNH2,KCNH2,gene,基因
+2815,KCNJ2,KCNJ2,gene,基因
+2816,KCNQ1,KCNQ1,gene,基因
+2818,KCNE2,KCNE2,gene,基因
+2819,DCTN1,DCTN1,gene,基因
+2824,MAP3K8,MAP3K8,gene,基因
+2827,PPP2R1B,PPP2R1B,gene,基因
+2834,BCL8,BCL8,gene,基因
+2835,FCGR2B,FCGR2B,gene,基因
+2836,SH2D1A,SH2D1A,gene,基因
+2838,RAP1GDS1,RAP1GDS1,gene,基因
+2840,RAD54L,RAD54L,gene,基因
+2842,RAD54B,RAD54B,gene,基因
+2847,GATA1,GATA1,gene,基因
+2850,FBLN5,FBLN5,gene,基因
+2851,CNGB3,CNGB3,gene,基因
+2852,HMCN1,HMCN1,gene,基因
+2856,GYPC,GYPC,gene,基因
+2857,ICAM1,ICAM1,gene,基因
+2858,NOS2A,NOS2A,gene,基因
+2867,BCKDHA,BCKDHA,gene,基因
+2868,BCKDHB,BCKDHB,gene,基因
+2869,DBT,DBT,gene,基因
+2870,GCSL,GCSL,gene,基因
+2887,PTCH2,PTCH2,gene,基因
+2888,SUFU,SUFU,gene,基因
+2896,CDK4,CDK4,gene,基因
+2899,XRCC3,XRCC3,gene,基因
+2904,COCH,COCH,gene,基因
+2905,MN1,MN1,gene,基因
+2907,PDGFB,PDGFB,gene,基因
+2911,AGTR2,AGTR2,gene,基因
+2912,DLG3,的Dlg3,gene,基因
+2913,ACSL4,ACSL4,gene,基因
+2914,FGD1,FGD1,gene,基因
+2915,AFF2,AFF2,gene,基因
+2916,GDI1,GDI1,gene,基因
+2918,OPHN1,OPHN1,gene,基因
+2919,PAK3,PAK3,gene,基因
+2920,RPS6KA3,RPS6KA3,gene,基因
+2922,SMS,SMS,gene,基因
+2923,SOX3,SOX3,gene,基因
+2924,TSPAN7,TSPAN7,gene,基因
+2925,ZNF41,ZNF41,gene,基因
+2926,SMCX,SMCX,gene,基因
+2927,PRSS12,PRSS12,gene,基因
+2928,ARHGEF6,ARHGEF6,gene,基因
+2929,IL1RAPL1,IL1RAPL1,gene,基因
+2930,FTSJ1,FTSJ1,gene,基因
+2931,CRBN,CRBN,gene,基因
+2932,NLGN4X,NLGN4X,gene,基因
+2934,ZNF81,ZNF81,gene,基因
+2966,ATP1A2,ATP1A2,gene,基因
+2967,EDNRA,EDNRA,gene,基因
+2968,ESR1,ESR1,gene,基因
+2971,BCS1L,BCS1L,gene,基因
+2972,NDUFS1,NDUFS1,gene,基因
+2973,NDUFS2,NDUFS2,gene,基因
+2974,NDUFV1,NDUFV1,gene,基因
+2975,NDUFS4,NDUFS4,gene,基因
+2976,SDHA,SDHA,gene,基因
+2977,UQCRB,UQCRB,gene,基因
+2979,GCK,GCK,gene,基因
+2980,HNF4A,HNF4A,gene,基因
+2981,INS,INS,gene,基因
+2983,TCF1,TCF1,gene,基因
+2984,TCF2,TCF2,gene,基因
+2985,TIMM8A,TIMM8A,gene,基因
+3016,CAPN3,CAPN3,gene,基因
+3019,LAMA2,LAMA2,gene,基因
+3020,PLEC1,PLEC1,gene,基因
+3021,SGCA,SGCA,gene,基因
+3022,SGCB,SGCB,gene,基因
+3023,SGCD,SGCD,gene,基因
+3024,SGCG,SGCG,gene,基因
+3025,TTN,TTN,gene,基因
+3027,TCAP,TCAP,gene,基因
+3028,LARGE,大,gene,基因
+3031,TRIM32,TRIM32,gene,基因
+3032,SEPN1,SEPN1,gene,基因
+3033,FKRP,FKRP,gene,基因
+3035,CHAT,CHAT,gene,基因
+3036,CHRNA1,CHRNA1,gene,基因
+3037,CHRNB1,CHRNB1,gene,基因
+3038,CHRND,CHRND,gene,基因
+3039,CHRNE,CHRNE,gene,基因
+3040,RAPSN,RAPSN,gene,基因
+3048,MDS1,MDS1,gene,基因
+3051,CBFB,CBFB,gene,基因
+3052,CSF1R,CSF1R,gene,基因
+3054,ACSL6,ACSL6,gene,基因
+3057,MPO,MPO,gene,基因
+3063,F7,F7,gene,基因
+3064,GCLM,GCLM,gene,基因
+3065,LGALS2,LGALS2,gene,基因
+3066,LTA,LTA,gene,基因
+3067,OLR1,OLR1,gene,基因
+3069,TNFSF4,TNFSF4,gene,基因
+3070,GABRG2,GABRG2,gene,基因
+3071,EFHC1,EFHC1,gene,基因
+3073,PGK1,PGK1,gene,基因
+3074,KCNQ2,KCNQ2,gene,基因
+3076,ACTA1,ACTA1,gene,基因
+3078,CPT2,CPT2,gene,基因
+3079,CRYAB,CRYAB,gene,基因
+3080,DES,DES,gene,基因
+3081,ITGA7,ITGA7,gene,基因
+3082,MYF6,MYF6,gene,基因
+3084,PGAM2,PGAM2,gene,基因
+3085,DYSF,DYSF,gene,基因
+3086,MYOT,MYOT,gene,基因
+3087,CLCN1,CLCN1,gene,基因
+3113,CFH,CFH,gene,基因
+3117,SPINK5,SPINK5,gene,基因
+3119,NME1,NME1,gene,基因
+3120,PHOX2B,PHOX2B,gene,基因
+3129,EGR2,EGR2,gene,基因
+3130,HSPB1,HSPB1,gene,基因
+3132,NGFB,NGFB,gene,基因
+3134,SPTLC1,SPTLC1,gene,基因
+3135,HSPB8,HSPB8,gene,基因
+3136,HSN2,HSN2,gene,基因
+3137,ELA2,ELA2,gene,基因
+3139,GFI1,GFI1,gene,基因
+3142,PLOD1,PLOD1,gene,基因
+3143,KRT10,KRT10,gene,基因
+3145,CHRNA4,CHRNA4,gene,基因
+3146,CYP2A6,CYP2A6,gene,基因
+3147,GPR51,GPR51,gene,基因
+3151,CACNA1F,CACNA1F,gene,基因
+3152,GNAT1,GNAT1,gene,基因
+3155,NYX,NYX,gene,基因
+3156,NBN,NBN,gene,基因
+3158,TAZ,TAZ,gene,基因
+3159,CASP10,CASP10,gene,基因
+3160,BRAF,BRAF,gene,基因
+3161,EGFR,表皮生长因子受体,gene,基因
+3162,IRF1,IRF1,gene,基因
+3163,PTPN11,PTPN11,gene,基因
+3164,NDP,NDP,gene,基因
+3168,ADRB2,ADRB2,gene,基因
+3169,ADRB3,ADRB3,gene,基因
+3170,AGRP,AGRP,gene,基因
+3171,AKR1C2,AKR1C2,gene,基因
+3172,LEP,LEP,gene,基因
+3173,LEPR,LEPR,gene,基因
+3174,MC3R,MC3R,gene,基因
+3175,MC4R,MC4R,gene,基因
+3176,NTRK2,NTRK2,gene,基因
+3177,PCSK1,PCSK1,gene,基因
+3179,POMC,POMC,gene,基因
+3180,PPARG,PPARG,gene,基因
+3181,SIM1,SIM1,gene,基因
+3182,UCP1,UCP1,gene,基因
+3183,UCP2,UCP2,gene,基因
+3184,UCP3,UCP3,gene,基因
+3185,NR0B2,NR0B2,gene,基因
+3186,CART,CART,gene,基因
+3187,SLC6A14,SLC6A14,gene,基因
+3188,GHRL,GHRL,gene,基因
+3189,BDNF,BDNF,gene,基因
+3191,SLC6A4,SLC6A4,gene,基因
+3192,ATP7A,ATP7A,gene,基因
+3203,PAX9,PAX9,gene,基因
+3204,AXIN2,AXIN2,gene,基因
+3210,OPA1,OPA1,gene,基因
+3211,OPA3,OPA3,gene,基因
+3220,ENPP1,ENPP1,gene,基因
+3222,FRZB,FRZB,gene,基因
+3224,ASPN,ASPN,gene,基因
+3229,CLCN7,CLCN7,gene,基因
+3231,TCIRG1,TCIRG1,gene,基因
+3232,OSTM1,OSTM1,gene,基因
+3234,CALCA,CALCA,gene,基因
+3235,CALCR,CALCR,gene,基因
+3236,COL1A1,COL1A1,gene,基因
+3237,COL1A2,COL1A2,gene,基因
+3246,CDH1,CDH1,gene,基因
+3248,ERBB2,ERBB2,gene,基因
+3249,MSH6,MSH6,gene,基因
+3250,MSH2,MSH2,gene,基因
+3251,PIK3CA,PIK3CA,gene,基因
+3252,RRAS2,RRAS2,gene,基因
+3266,ACVR1B,ACVR1B,gene,基因
+3268,CDKN2A,CDKN2A,gene,基因
+3271,RBBP8,RBBP8,gene,基因
+3274,ARMET,ARMET,gene,基因
+3278,BRCA1,BRCA1,gene,基因
+3281,SDHC,SDHC,gene,基因
+3283,SCN4A,SCN4A,gene,基因
+3285,CDC73,CDC73,gene,基因
+3286,MSX2,MSX2,gene,基因
+3287,ALX4,ALX4,gene,基因
+3288,RASA1,RASA1,gene,基因
+3289,DBH,胸径,gene,基因
+3290,NDUFV2,NDUFV2,gene,基因
+3291,NR4A2,NR4A2,gene,基因
+3292,PARK2,PARK2,gene,基因
+3293,SNCA,SNCA,gene,基因
+3295,UCHL1,UCHL1,gene,基因
+3296,SNCAIP,SNCAIP,gene,基因
+3297,PARK7,PARK7,gene,基因
+3298,PINK1,PINK1,gene,基因
+3299,LRRK2,LRRK2,gene,基因
+3306,SLC26A4,SLC26A4,gene,基因
+3315,CYP1B1,CYP1B1,gene,基因
+3317,STK11,STK11,gene,基因
+3318,FGFR1,FGFR1,gene,基因
+3324,SDHB,SDHB,gene,基因
+3325,SDHD,SDHD,gene,基因
+3331,PSEN1,PSEN1,gene,基因
+3332,KIT,KIT,gene,基因
+3335,CTNNB1,CTNNB1,gene,基因
+3338,THRA,THRA,gene,基因
+3343,CD36,CD36,gene,基因
+3344,PLA2G7,PLA2G7,gene,基因
+3345,P2RY12,P2RY12,gene,基因
+3356,BMPR1A,BMPR1A,gene,基因
+3357,SMAD4,SMAD4,gene,基因
+3371,EPHX1,EPHX1,gene,基因
+3372,STOX1,STOX1,gene,基因
+3377,PRNP,PRNP,gene,基因
+3388,ATBF1,ATBF1,gene,基因
+3390,KLF6,KLF6,gene,基因
+3391,EPHB2,EPHB2,gene,基因
+3392,MSR1,MSR1,gene,基因
+3393,MXI1,MXI1,gene,基因
+3395,RNASEL,RNASEL,gene,基因
+3396,MAD1L1,MAD1L1,gene,基因
+3397,CHEK2,CHEK2,gene,基因
+3398,ELAC2,ELAC2,gene,基因
+3402,ARX,ARX,gene,基因
+3403,COMP,COMP,gene,基因
+3406,NR3C2,NR3C2,gene,基因
+3407,SCNN1A,SCNN1A,gene,基因
+3408,SCNN1B,SCNN1B,gene,基因
+3409,SCNN1G,SCNN1G,gene,基因
+3410,WNK1,WNK1,gene,基因
+3411,WNK4,WNK4,gene,基因
+3426,PC,PC,gene,基因
+3427,PDHA1,PDHA1,gene,基因
+3428,PDHB,PDHB,gene,基因
+3429,INSR,INSR,gene,基因
+3440,MET,MET,gene,基因
+3441,OGG1,OGG1,gene,基因
+3442,PRCC,乳头状肾细胞癌,gene,基因
+3443,TFE3,TFE3,gene,基因
+3445,RNF139,RNF139,gene,基因
+3446,FLCN,FLCN,gene,基因
+3452,PROM1,PROM1,gene,基因
+3453,LRAT,LRAT,gene,基因
+3454,C1QTNF5,C1QTNF5,gene,基因
+3456,CA4,CA4,gene,基因
+3457,CNGB1,CNGB1,gene,基因
+3458,CNGA1,CNGA1,gene,基因
+3459,CRX,CRX,gene,基因
+3460,IMPDH1,IMPDH1,gene,基因
+3461,NRL,NRL,gene,基因
+3462,PDE6A,PDE6A,gene,基因
+3463,PDE6B,PDE6B,gene,基因
+3465,RGR,RGR,gene,基因
+3466,RHO,RHO,gene,基因
+3467,RLBP1,RLBP1,gene,基因
+3468,ROM1,ROM1,gene,基因
+3469,Rp9,Rp9,gene,基因
+3470,Rp1,Rp1,gene,基因
+3471,Rp2,Rp2,gene,基因
+3472,RPGR,RPGR,gene,基因
+3473,RPE65,RPE65,gene,基因
+3474,TULP1,TULP1,gene,基因
+3476,PRPF3,PRPF3,gene,基因
+3477,NR2E3,NR2E3,gene,基因
+3478,MERTK,MERTK,gene,基因
+3479,PRPF8,PRPF8,gene,基因
+3480,CRB1,CRB1,gene,基因
+3481,AIPL1,AIPL1,gene,基因
+3482,FSCN2,FSCN2,gene,基因
+3483,PRPF31,PRPF31,gene,基因
+3484,CERKL,CERKL,gene,基因
+3485,RB1,RB1,gene,基因
+3488,MECP2,MECP2,gene,基因
+3489,CDKL5,CDKL5,gene,基因
+3491,FOXO1A,FOXO1A,gene,基因
+3492,SLC22A18,SLC22A18,gene,基因
+3494,PAX7,PAX7,gene,基因
+3495,RUNX1,RUNX1,gene,基因
+3496,IL10,IL10,gene,基因
+3498,MIF,MIF,gene,基因
+3499,NFKBIL1,NFKBIL1,gene,基因
+3500,SLC22A4,SLC22A4,gene,基因
+3501,PADI4,PADI4,gene,基因
+3505,RHAG,RHAG,gene,基因
+3506,RHCE,RHCE,gene,基因
+3507,RHD,RHD,gene,基因
+3511,FOXC1,FOXC1,gene,基因
+3513,PITX2,PITX2,gene,基因
+3514,CAV3,CAV3,gene,基因
+3519,MPZ,MPZ,gene,基因
+3520,PMP22,PMP22,gene,基因
+3521,CREBBP,CREBBP,gene,基因
+3522,EP300,EP300,gene,基因
+3523,FGFR2,FGFR2,gene,基因
+3524,TWIST1,TWIST1,gene,基因
+3539,APP,APP,gene,基因
+3540,COMT,COMT,gene,基因
+3542,PRODH,PRODH,gene,基因
+3543,SYN2,SYN2,gene,基因
+3544,ENTH,ENTH,gene,基因
+3545,DISC1,DISC1,gene,基因
+3546,RTN4R,RTN4R,gene,基因
+3547,TAAR6,TAAR6,gene,基因
+3548,NF2,NF2,gene,基因
+3553,APOE,APOE,gene,基因
+3554,HTR2A,HTR2A,gene,基因
+3555,MYH9,MYH9,gene,基因
+3560,TGM1,TGM1,gene,基因
+3567,TNF,肿瘤坏死因子,gene,基因
+3568,CASP12P1,CASP12P1,gene,基因
+3571,ADA,ADA,gene,基因
+3572,CD3D,CD3D,gene,基因
+3574,IL7R,IL7R,gene,基因
+3576,RAG1,RAG1,gene,基因
+3577,RAG2,RAG2,gene,基因
+3578,DCLRE1C,DCLRE1C,gene,基因
+3580,BCL10,BCL10,gene,基因
+3581,EDN3,EDN3,gene,基因
+3599,DSP,DSP,gene,基因
+3608,SHH,SHH,gene,基因
+3609,GNAS,GNAS,gene,基因
+3612,HSPD1,HSPD1,gene,基因
+3613,KIF5A,KIF5A,gene,基因
+3614,PLP1,PLP1,gene,基因
+3615,SPAST,SPAST,gene,基因
+3616,SPG7,SPG7,gene,基因
+3617,SACS,SACS,gene,基因
+3618,SPG3A,SPG3A,gene,基因
+3619,ALS2,ALS2,gene,基因
+3620,NIPA1,NIPA1,gene,基因
+3623,ANK1,ANK1,gene,基因
+3624,EPB42,EPB42,gene,基因
+3626,SPTA1,SPTA1,gene,基因
+3627,SPTB,SPTB,gene,基因
+3631,AR,AR,gene,基因
+3632,GARS,GARS,gene,基因
+3633,HEXB,HEXB,gene,基因
+3634,IGHMBP2,IGHMBP2,gene,基因
+3635,SMN1,SMN1,gene,基因
+3636,VAPB,VAPB,gene,基因
+3637,BSCL2,BSCL2,gene,基因
+3638,CACNA1A,CACNA1A,gene,基因
+3639,FGF14,FGF14,gene,基因
+3640,PPP2R2B,PPP2R2B,gene,基因
+3641,PRKCG,PRKCG,gene,基因
+3642,ATXN1,ATXN1,gene,基因
+3643,ATXN2,ATXN2,gene,基因
+3644,ATXN7,ATXN7,gene,基因
+3645,KLHL1AS,KLHL1AS,gene,基因
+3646,TBP,TBP,gene,基因
+3647,ATXN10,ATXN10,gene,基因
+3648,PLEKHG4,PLEKHG4,gene,基因
+3649,TDP1,TDP1,gene,基因
+3650,SCA25,SCA25,gene,基因
+3653,FLNB,FLNB,gene,基因
+3656,AGC1,AGC1,gene,基因
+3657,MATN3,MATN3,gene,基因
+3658,TRAPPC2,TRAPPC2,gene,基因
+3659,WISP3,WISP3,gene,基因
+3660,CHST3,CHST3,gene,基因
+3662,FAS,FAS,gene,基因
+3663,ING1,ING1,gene,基因
+3664,TNFRSF10B,TNFRSF10B,gene,基因
+3675,COL11A1,COL11A1,gene,基因
+3677,KRAS,KRAS,gene,基因
+3678,ALOX5AP,ALOX5AP,gene,基因
+3679,PDE4D,PDE4D,gene,基因
+3681,DCX,DCX,gene,基因
+3682,PAFAH1B1,PAFAH1B1,gene,基因
+3699,FASLG,FASLG,gene,基因
+3700,DNASE1,DNASE1,gene,基因
+3701,PDCD1,PDCD1,gene,基因
+3702,PTPN22,PTPN22,gene,基因
+3704,ABCA1,ABCA1,gene,基因
+3706,MAPT,MAPT,gene,基因
+3708,ATM,ATM,gene,基因
+3709,BAX,BAX,gene,基因
+3712,JAG1,JAG1,gene,基因
+3713,NKX2-5,NKX2-5,gene,基因
+3714,ZFPM2,ZFPM2,gene,基因
+3720,FGFR3,FGFR3,gene,基因
+3722,JAK2,JAK2,gene,基因
+3723,THPO,THPO,gene,基因
+3725,MPL,MPL,gene,基因
+3727,MASTL,MASTL,gene,基因
+3728,CBS,CBS,gene,基因
+3729,F5,F5,gene,基因
+3730,FGB,FGB,gene,基因
+3731,FGG,FGG,gene,基因
+3732,SERPIND1,SERPIND1,gene,基因
+3733,HRG,HRG,gene,基因
+3734,PROC,PROC,gene,基因
+3735,THBD,THBD,gene,基因
+3736,ADAMTS13,ADAMTS13,gene,基因
+3738,HRAS,HRAS,gene,基因
+3739,PCM1,PCM1,gene,基因
+3743,TSHR,TSHR,gene,基因
+3744,NCOA4,NCOA4,gene,基因
+3745,TRIM24,TRIM24,gene,基因
+3746,MINPP1,MINPP1,gene,基因
+3747,GOLGA5,GOLGA5,gene,基因
+3748,TRIM33,TRIM33,gene,基因
+3749,CACNA1S,CACNA1S,gene,基因
+3759,COL7A1,COL7A1,gene,基因
+3772,MYH8,MYH8,gene,基因
+3780,APC,APC,gene,基因
+3781,MLH1,MLH1,gene,基因
+3782,PMS2,PMS2,gene,基因
+3792,KRT1,KRT1,gene,基因
+3793,APRT,APRT,gene,基因
+3794,SLC34A1,SLC34A1,gene,基因
+3795,MYO7A,MYO7A,gene,基因
+3796,USH2A,USH2A,gene,基因
+3797,USH3A,USH3A,gene,基因
+3798,USH1C,USH1C,gene,基因
+3799,CDH23,CDH23,gene,基因
+3800,PCDH15,PCDH15,gene,基因
+3801,MASS1,MASS1,gene,基因
+3802,USH1G,USH1G,gene,基因
+3803,HMGA2,HMGA2,gene,基因
+3805,LRP5,LRP5,gene,基因
+3806,PTEN,PTEN,gene,基因
+3810,CASQ2,CASQ2,gene,基因
+3811,GNAI2,GNAI2,gene,基因
+3812,RYR2,RYR2,gene,基因
+3813,HOXD10,HOXD10,gene,基因
+3814,FCGR3A,FCGR3A,gene,基因
+3815,OAS1,OAS1,gene,基因
+3821,GJB2,GJB2,gene,基因
+3822,LOR,LOR,gene,基因
+3823,CCND1,CCND1,gene,基因
+3824,VHL,VHL,gene,基因
+3825,EDNRB,EDNRB,gene,基因
+3827,MITF,MITF,gene,基因
+3828,PAX3,PAX3,gene,基因
+3829,SNAI2,SNAI2,gene,基因
+3830,TYR,TYR,gene,基因
+3831,COL2A1,COL2A1,gene,基因
+3833,FCMD,FCMD,gene,基因
+3834,POMT1,POMT1,gene,基因
+3835,RAB3GAP1,RAB3GAP1,gene,基因
+3839,NF1,NF1,gene,基因
+3841,TAP2,TAP2,gene,基因
+3842,FBN1,FBN1,gene,基因
+3843,ADAMTS10,ADAMTS10,gene,基因
+3844,COL11A2,COL11A2,gene,基因
+3851,ELN,ELN,gene,基因
+3852,BRCA2,BRCA2,gene,基因
+3853,GPC3,GPC3,gene,基因
+3854,WT1,WT1,gene,基因
+3855,POU6F2,POU6F2,gene,基因
+3857,WAS,WAS,gene,基因
+3858,MSX1,MSX1,gene,基因
+3860,PRKAG2,PRKAG2,gene,基因
+3875,SOX10,SOX10,gene,基因
+3887,PVRL1,PVRL1,gene,基因
+3892,COL3A1,COL3A1,gene,基因
+3893,TG,TG,gene,基因
+3894,PTCH,PTCH,gene,基因
+3895,MEN1,MEN1,gene,基因
+3896,MYH7,MYH7,gene,基因
+3897,RYR1,RYR1,gene,基因
+3904,NOS3,NOS3,gene,基因
+3905,SLC6A8,SLC6A8,gene,基因
+3913,GJA1,GJA1,gene,基因
+3915,ABCA4,ABCA4,gene,基因
+3916,CHST6,CHST6,gene,基因
+3917,RDS,RDS,gene,基因
+3918,ELOVL4,ELOVL4,gene,基因
+3919,VMD2,VMD2,gene,基因
+3920,NTRK1,NTRK1,gene,基因
+3921,RET,RET,gene,基因
+3928,IPF1,IPF1,gene,基因
+3930,KCNJ11,KCNJ11,gene,基因
+3931,PRKAR1A,PRKAR1A,gene,基因
+3939,THRB,THRB,gene,基因
+3941,TPO,TPO,gene,基因
+3943,SCN5A,SCN5A,gene,基因
+3951,C6,C6,gene,基因
+3952,IL2RG,IL2RG,gene,基因
+3957,TP53,TP53,gene,基因
+3958,PAX6,PAX6,gene,基因
+3964,STS,STS,gene,基因
+3972,ATP6V1B1,ATP6V1B1,gene,基因
+3973,CA2,CA2,gene,基因
+3974,SLC4A1,SLC4A1,gene,基因
+3975,SLC4A4,SLC4A4,gene,基因
+3976,ATP6V0A4,ATP6V0A4,gene,基因
+3980,CIITA,CIITA,gene,基因
+3981,PTPRC,PTPRC,gene,基因
+3983,AGT,AGT,gene,基因
+3984,AGTR1,AGTR1,gene,基因
+3985,ACE,ACE,gene,基因
+3986,REN,REN,gene,基因
